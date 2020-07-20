@@ -1,3 +1,4 @@
+//modified line
 var Gantt = (function () {
 'use strict';
 
